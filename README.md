@@ -1,6 +1,6 @@
 # WebTech Workshop: Microfrontends
 
-## Anwendungen mit create-mf-app erstellen
+## Anleitung für Aufgabe 1 um Anwendungen mit create-mf-app erstellen
 
 ### Schritt 1: Neues Projekt erstellen
 
